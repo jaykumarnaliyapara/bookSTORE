@@ -1,6 +1,6 @@
 # bookSTORE
 #This is an e-commerce web-site developed using mern stack.
-#Functionalities
+#functionality
 #1.SignIN/SignUP
 #2.Search Items via {author/name/category}
 #3.Add Items to Cart/Remove Items.
